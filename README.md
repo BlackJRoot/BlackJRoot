@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm BlackJesus 👋  
 
-<!--
-**BlackJRoot/BlackJRoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Aspiring SysAdmin | 🧩 Homelab Explorer | 🔐 Security Beginner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 What I'm Doing Right Now
+- Learning the ropes of **system administration** (Linux, Windows, networking).  
+- Building small **homelab projects** with Active Directory, Docker, and Pi-hole.  
+- Writing **simple Bash scripts** for automation and monitoring.  
+- Documenting my process so I can look back and track growth.  
+
+---
+
+## 📂 My Repositories
+Here you’ll mostly find:  
+- **homelab-setups** → Notes, diagrams, and experiments.  
+- **sysadmin-scripts** → Backup & monitoring scripts I’m practicing with.  
+- **security-playbooks** → Early notes on hardening and OPSEC.  
+- **personal-configs** → Linux desktop rices, dotfiles, and tweaks.  
+- **learning-notes** → Summaries from what I read and test.  
+
+*(These are all in-progress, beginner-friendly, and reflect my learning path.)*  
+
+---
+
+## 🛠️ Tools & Topics I'm Exploring
+- **Operating Systems:** Ubuntu, Kali, Windows Server  
+- **Networking:** VLANs, Cisco Packet Tracer basics  
+- **Tools:** Docker, Pi-hole, Nmap  
+- **Languages:** Bash (beginner), touching PowerShell soon  
+
+---
+
+## 🌍 Why This GitHub Exists
+This is not a polished portfolio (yet!) — it’s my **learning log**.  
+I break things, fix them, write about it, and share what I understood.  
+
+---
+
+_"Learning in public → one lab, one script, one experiment at a time."_  
