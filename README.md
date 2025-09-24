@@ -1,4 +1,4 @@
-# Hey, I'm BlackJesus 👋  
+# Hey, I'm Ayomiposi Sotomi, a.k.a BlackJesus 👋  
 
 🛠️ Aspiring SysAdmin | 🧩 Homelab Explorer | 🔐 Security Beginner  
 
